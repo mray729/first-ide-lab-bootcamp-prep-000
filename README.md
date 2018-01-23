@@ -119,6 +119,7 @@
   <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/saving-a-file.png" style="display: inline"/>
   <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/saved-edited-file.png" style="display: inline"/>
   ls
+pwd-terminal
 
   <br>
   <br>
